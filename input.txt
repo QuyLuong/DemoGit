@@ -1,1 +1,2 @@
 This is from branch master
+This is from branch A
